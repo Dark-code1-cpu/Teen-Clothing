@@ -39,7 +39,7 @@
 .products,
 .users {
     width: fit-content;
-    margin-left: 80px;
+    margin-left: 50px;
     margin-bottom: 10px;
     padding: 10px;
     text-align: center;
@@ -49,11 +49,11 @@
 }
 
 .products {
-    margin-right: 40px;
+    margin-right: 20px;
 }
 
 .users {
-    margin-right: 60px;
+    margin-right: 30px;
 }
 
 .right-bar ul li a {
