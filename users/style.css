@@ -24,7 +24,7 @@
     box-shadow: 2px 0px 10px 2px var(--main-color);
 }
 
-.form .checkbox:checked {
+.form .form-check .checkbox:checked {
     background-color: var(--main-color) !important;
     color: var(--main-color) !important;
 }
